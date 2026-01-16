@@ -1,0 +1,26 @@
+# Core Streamlit Dashboard
+streamlit==1.32.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.3.2
+prophet==1.1.5
+
+# Visualization
+plotly==5.17.0
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Real-time Data
+yfinance==0.2.22
+
+# Utilities
+pathlib==1.0.1
+joblib==1.3.2
+
+# Warnings & Config
+python-dateutil==2.8.2
+pytz==2023.3
